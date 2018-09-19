@@ -1,0 +1,9 @@
+version: '2.1'
+
+services:
+  tomcat:
+    image: 'tomcat:latest'
+    ports:
+      - '8080:8080'
+    volumes:
+      - /Users/arturo.rodriguez/Documents/Proyects/docker-tomcat-volume

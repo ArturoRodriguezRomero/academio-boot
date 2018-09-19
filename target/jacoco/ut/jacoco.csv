@@ -1,0 +1,14 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+academio-boot,com.autentia.academioboot.controller,TeacherController,8,19,0,0,0,6,1,3,1,3
+academio-boot,com.autentia.academioboot.controller,CourseController,20,83,0,0,1,19,1,6,1,6
+academio-boot,com.autentia.academioboot.controller,CourseLevelController,5,22,0,0,0,6,0,4,0,4
+academio-boot,com.autentia.academioboot.service.course.imp,CourseServiceImp,0,22,0,0,0,6,0,4,0,4
+academio-boot,com.autentia.academioboot.service.storage.imp,StorageServiceImp,12,100,1,5,2,19,1,7,0,5
+academio-boot,com.autentia.academioboot,AcademioBootApplication,17,0,0,0,4,0,3,0,3,0
+academio-boot,com.autentia.academioboot.model,Teacher,14,12,0,0,7,5,4,2,4,2
+academio-boot,com.autentia.academioboot.model,Course,49,27,0,0,22,10,14,2,14,2
+academio-boot,com.autentia.academioboot.model,CourseLevel,17,9,0,0,8,4,5,1,5,1
+academio-boot,com.autentia.academioboot.service.courseLevel.imp,CourseLevelServiceImp,0,16,0,0,0,5,0,3,0,3
+academio-boot,com.autentia.academioboot.exception,StorageException,0,9,0,0,0,4,0,2,0,2
+academio-boot,com.autentia.academioboot.exception,ResourceNotFoundException,9,28,0,0,3,5,3,1,3,1
+academio-boot,com.autentia.academioboot.service.teacher.imp,TeacherServiceImp,0,16,0,0,0,5,0,3,0,3

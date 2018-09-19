@@ -1,0 +1,8 @@
+com/autentia/academioboot/AcademioBootApplicationTests.class
+com/autentia/academioboot/service/courseLevel/CourseLevelServiceTest.class
+com/autentia/academioboot/controller/CourseLevelControllerTest.class
+com/autentia/academioboot/service/teacher/TeacherServiceTest.class
+com/autentia/academioboot/service/course/CourseServiceTest.class
+com/autentia/academioboot/controller/TeacherControllerTest.class
+com/autentia/academioboot/service/storage/StorageServiceTest.class
+com/autentia/academioboot/controller/CourseControllerTest.class
